@@ -36,11 +36,19 @@
 
 8. **Ver a lista de repositórios remotos cadastrados no github**
 
-9. git remote -v
+   git remote -v
 
-10. *****FIM*
+9. **Fazer o push subir os arquivos para o github**
 
-11. Aula finalizada 03/10/2021 https://web.digitalinnovation.one/
+10. git push origin
 
-    
+
+
+"Aula finalizada 03/10/2021 https://web.digitalinnovation.one/  documentos disponíveis no meu github"
+
+
+
+
+
+
 
