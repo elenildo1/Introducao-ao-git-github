@@ -1,6 +1,6 @@
 
 
-# Aprendendo os comandos básicos do git
+# Aprendendo os comandos básicos do git.
 
 
 
@@ -26,7 +26,19 @@
 
    echo > readme.md
 
-6. 
+6. **Lista as configurações do seu repositório remoto do github.**
 
-   
+   git config --list
+
+7. **Como enviar os arquivos locais para o origen do github.**
+
+   git remote add origin https://github.com/elenildo1/Introducao-ao-git-github.git
+
+8. **Ver a lista de repositórios remotos cadastrados no github**
+
+9. git remote -v
+
+10. 
+
+    
 
