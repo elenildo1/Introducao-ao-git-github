@@ -22,7 +22,11 @@
 
    git status
 
-5. 
+5. **criar arquivos md.**
+
+   echo > readme.md
+
+6. 
 
    
 
