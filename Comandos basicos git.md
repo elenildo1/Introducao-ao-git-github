@@ -38,7 +38,7 @@
 
 9. git remote -v
 
-10. 
+10. Fim da lista
 
     
 
