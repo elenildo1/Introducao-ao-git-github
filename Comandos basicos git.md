@@ -40,11 +40,21 @@
 
 9. **Fazer o push subir os arquivos para o github**
 
-10. git push origin
+10. git push origin master
+
+    
 
 
 
 "Aula finalizada 03/10/2021 https://web.digitalinnovation.one/  documentos disponíveis no meu github"
+
+Certificado de conclusão disponível: https://certificates.digitalinnovation.one/52237912
+
+
+
+"Obrigado!!!!"
+
+
 
 
 
